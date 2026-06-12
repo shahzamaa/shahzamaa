@@ -34,6 +34,3 @@ Passionate about low-code application development and the automation of real-tim
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shahzamaahmad&icon=7&color=10)](https://visitcount.itsvg.in)
-
-## 💰 You can help me by Donating
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/er.ubaid2017@gmail.com)
